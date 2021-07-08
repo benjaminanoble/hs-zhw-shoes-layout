@@ -115,6 +115,10 @@ iframe {
 }
 
 .milk_text {
+  padding-top: 10px;
+ }
+
+.milk_text {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
@@ -301,5 +305,3 @@ footer a {
   color: #555;
   text-decoration: underline;
 }
-
-/* code examples copyright Jonathan Grover 2012 */
